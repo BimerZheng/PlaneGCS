@@ -71,3 +71,15 @@
 - 子系统划分：解耦组件识别、参数缩减、等式约束处理
 - 求解算法：BFGS、Levenberg-Marquardt、DogLeg、优先级求解
 - 求解策略：单个子系统、两个子系统（优先级）、通用求解
+## 许可证与版权
+
+- **原文档**: Copyright © 2018 Abdullah Tahiri, FreeCAD社区
+- **翻译文档**: 仅供学习参考，遵循原文档许可证
+- **使用限制**: 不得用于商业目的，转载请保留原作者信息
+## 致谢
+
+感谢FreeCAD社区和Abdullah Tahiri提供如此详细的技术文档，感谢FreeCAD开发团队的开源精神。本翻译文档旨在帮助更多中文开发者参与到FreeCAD的开发和改进中。
+## 许可证
+
+原文档版权归属FreeCAD项目和作者Abdullah Tahiri。
+本翻译仅供参考学习使用。
